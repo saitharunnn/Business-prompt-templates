@@ -1,1 +1,1 @@
-# Business-promt-templates
+# Business-prompt-templates
